@@ -4,11 +4,11 @@
 # Eron-Rexha
 
 ```                                                                                                                                                                                                          
-                                        %@                                      
-                                    @@@%*##%@@@@                               
-                                @@@@@@*+#*+#*@@@#                              
+                                        %@                                      🎓 **Computer Science Student**  
+                                    @@@%*##%@@@@                                💻 Interested in **Software Development & AI**  
+                                @@@@@@*+#*+#*@@@#                              📍 Based in **Kosovo**
                               %@@%%%%+:::==#%@@@#=                              
-                              #**#=--:. :-+*#%@@#-+                             
+                              #**#=--:. :-+*#%@@#-+                       
                              ++++==-:. .:-:.-+**#-=+                            
                              ==-=+*=-=+++#%%%@@%-%==:                           
                              ---*%%%%%%%%@@@@@@@%@%-:                           
@@ -34,11 +34,7 @@
 </td>
 <td>
 
-## 👋 Eron Rexha
 
-🎓 **Computer Science Student**  
-💻 Interested in **Software Development & AI**  
-📍 Based in **Kosovo**
 
 ---
 
