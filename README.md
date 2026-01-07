@@ -1,7 +1,6 @@
 ## 
 
 
-# Eron-Rexha
 
 ```                                                                             ## 👋 Eron Rexha                                                                                                                            
                                         %@                                      🎓 **Computer Science Student**  
