@@ -3,16 +3,16 @@
 
 # Eron-Rexha
 
-```                                                                                                                                                                                                          
+```                                                                             ## 👋 Eron Rexha                                                                                                                            
                                         %@                                      🎓 **Computer Science Student**  
                                     @@@%*##%@@@@                                💻 Interested in **Software Development & AI**  
-                                @@@@@@*+#*+#*@@@#                              📍 Based in **Kosovo**
-                              %@@%%%%+:::==#%@@@#=                              
+                                @@@@@@*+#*+#*@@@#                               📍 Based in **Kosovo**
+                              %@@%%%%+:::==#%@@@#=
                               #**#=--:. :-+*#%@@#-+                       
-                             ++++==-:. .:-:.-+**#-=+                            
-                             ==-=+*=-=+++#%%%@@%-%==:                           
-                             ---*%%%%%%%%@@@@@@@%@%-:                           
-                              .:%@@@@@@@@@@@@@@@@@@-                            
+                             ++++==-:. .:-:.-+**#-=+                            ## 🧠 About Me
+                             ==-=+*=-=+++#%%%@@%-%==:                           Building small projects
+                             ---*%%%%%%%%@@@@@@@%@%-:                           Learning by doing
+                              .:%@@@@@@@@@@@@@@@@@@-                            Open to internships & collaborations
                                +%***#%@@@@@@@@@@@@@:                            
                                %****=-=%@%-::==++@@-                            
                               @@%+==+=+%@%=:::=#@@@*@                           
@@ -31,21 +31,10 @@
 ```
 
 
-</td>
-<td>
 
 
 
----
 
-### 🧠 About Me
-- Building small projects
-- Learning by doing
-- Open to internships & collaborations
-
-</td>
-</tr>
-</table>
 
 
 
