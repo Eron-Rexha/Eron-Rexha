@@ -32,7 +32,6 @@
 
 ```
 
-
 👋 Hi, I’m **Eron Rexha**
 
 🎓 Computer Science Student  
