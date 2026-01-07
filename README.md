@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 # Eron-Rexha
 
 ```                                                                                                                                                                                                          
@@ -45,4 +45,4 @@
 - Currently exploring different CS fields  
 - Open to internships & collaborations  
 
--->
+
