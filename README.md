@@ -11,7 +11,7 @@ I enjoy learning new technologies, solving problems and connecting with people w
 - Algorithms and Problem Solving
 
 
-##Currently Learning 
+## Currently Learning 
 - Artificial Intelligence and Machine Learning
 - C++ Programming
 - Linear Algebra for Machine Learning
