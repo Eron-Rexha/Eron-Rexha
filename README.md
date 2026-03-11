@@ -1,19 +1,18 @@
-## Eron Rexha 👋
+## Eron Rexha 
 
 20-year-old Computer Science student with a strong interest in Artificial Intelligence and Machine Learning.
 Currently focused on improving my programming skills and building projects while exploring topics such as AI, ML, and software development.
 I enjoy learning new technologies, solving problems and connecting with people who share similar interests in tech.
-<!--
-**Eron-Rexha/Eron-Rexha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interest 
+- Artificial Intelligence and Machine Learning
+- Neural Networks and Deep Learning
+- Algorithms and Problem Solving
+
+
+##Currently Learning 
+- Artificial Intelligence and Machine Learning
+- C++ Programming
+- Linear Algebra for Machine Learning
+- Algorithms and Data Structures
