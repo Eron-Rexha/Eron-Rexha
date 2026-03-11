@@ -16,3 +16,7 @@ I enjoy learning new technologies, solving problems and connecting with people w
 - C++ Programming
 - Linear Algebra for Machine Learning
 - Algorithms and Data Structures
+
+
+Based in Kosovo
+Contact: eronrexha23@gmail.com 
