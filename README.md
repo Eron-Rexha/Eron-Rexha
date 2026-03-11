@@ -18,5 +18,5 @@ I enjoy learning new technologies, solving problems and connecting with people w
 - Algorithms and Data Structures
 
 
-Based in Kosovo .\
+Based in Kosovo \
 Contact: eronrexha23@gmail.com 
